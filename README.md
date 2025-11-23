@@ -1,2 +1,8 @@
-# Data-Analysis-Dashboard
-A clean and interactive Power BI dashboard analyzing mobile sales data with KPIs, trends, payment insights, customer ratings, and brand performance. Ideal for business reporting and decision-making.
+Mobile Sales Data Dashboard – Power BI
+=====================================
+
+Project Overview
+----------------
+This project presents a complete analysis of mobile sales data using Microsoft Power BI. 
+The dashboard provides interactive KPIs, trend insights, brand analysis, customer ratings, 
+and payment method breakdowns to help businesses make data‑driven decisions.
