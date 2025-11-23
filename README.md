@@ -35,8 +35,8 @@ Key Features
    - Professional icons
    - Light theme dashboard
 
-   Dashboard Interaction
-   -------------------------
+ Dashboard Interaction
+ -------------------------
  -<a href=  "https://github.com/takhancode/Data-Analysis-Dashboard/blob/main/Screenshot%202025-11-22%20181503.png">View Dashboard</a>
    
 
