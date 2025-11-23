@@ -9,7 +9,7 @@ and payment method breakdowns to help businesses make data‑driven decisions.
 
 DataSet
 ----------------
-[Download Dataset](./Mobile Sales Data.xlsx)
+https://github.com/takhancode/Data-Analysis-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx
 
 
 Key Features
