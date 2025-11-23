@@ -9,8 +9,7 @@ and payment method breakdowns to help businesses make data‑driven decisions.
 
 DataSet
 ----------------
--  <a href="https://github.com/takhancode/Data-Analysis-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">DataSet</a>
-
+-<a href="https://github.com/takhancode/Data-Analysis-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">DataSet</a>
 
 Key Features
 ------------
@@ -38,6 +37,7 @@ Key Features
 
    Dashboard Interaction
    -------------------------
+ -<a href=  "https://github.com/takhancode/Data-Analysis-Dashboard/blob/main/Screenshot%202025-11-22%20181503.png">View Dashboard</a>
    
 
 Tools & Technologies Used
